@@ -1,0 +1,28 @@
+UNIVERSITY LIBRARY - INVENTORY REPORT
+=============================================
+Total different book records: 3
+Total copies in inventory: 9
+
+BOOK DETAILS
+---------------------------------------------
+Book ID: B001
+Title: Python Programming
+Author: A. Khan
+Category: Programming
+Available Quantity: 5
+Status: Available
+---------------------------------------------
+Book ID: B002
+Title: Database Systems
+Author: S. Ali
+Category: Database
+Available Quantity: 0
+Status: Out of stock
+---------------------------------------------
+Book ID: B003
+Title: World History
+Author: M. Ahmed
+Category: History
+Available Quantity: 4
+Status: Available
+---------------------------------------------

@@ -1,0 +1,29 @@
+
+MONTHLY EMPLOYEE ATTENDANCE RECORDS
+
+E101, Ali, 2026-11-02, 8 hours
+E101, Ali, 2026-11-03, 8 hours
+E101, Ali, 2026-11-04, 7 hours
+E101, Ali, 2026-11-05, 8 hours
+E101, Ali, 2026-11-06, 8 hours
+
+E102, Ahmed, 2026-11-02, 6 hours
+E102, Ahmed, 2026-11-03, 5 hours
+E102, Ahmed, 2026-11-04, 6 hours
+E102, Ahmed, 2026-11-05, 5 hours
+E102, Ahmed, 2026-11-06, 6 hours
+
+E103, Usman, 2026-11-02, 4 hours
+E103, Usman, 2026-11-03, 5 hours
+E103, Usman, 2026-11-04, 5 hours
+E103, Usman, 2026-11-05, 4 hours
+E103, Usman, 2026-11-06, 5 hours
+
+
+MONTHLY PAYROLL REPORT
+
+E101, Ali, IT, Total Hours: 39, Salary: Rs. 19500
+E102, Ahmed, HR, Total Hours: 28, Salary: Rs. 14000
+E103, Usman, Finance, Total Hours: 23, Salary: Rs. 11500
+
+Total Salary Expenditure: Rs. 45000

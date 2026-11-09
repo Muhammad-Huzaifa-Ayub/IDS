@@ -1,0 +1,8 @@
+
+LIBRARY INVENTORY REPORT
+
+{'id': 101, 'title': 'Python Basics', 'author': 'John Smith', 'category': 'Programming', 'quantity': 5}
+{'id': 102, 'title': 'Data Science', 'author': 'David Brown', 'category': 'Technology', 'quantity': 3}
+{'id': 103, 'title': 'English Grammar', 'author': 'Ali Khan', 'category': 'English', 'quantity': 5}
+{'id': 104, 'title': 'Computer Science', 'author': 'Ahmed Ali', 'category': 'Programming', 'quantity': 4}
+{'id': 105, 'title': 'Computer Networks', 'author': 'Usman Khan', 'category': 'Technology', 'quantity': 6}

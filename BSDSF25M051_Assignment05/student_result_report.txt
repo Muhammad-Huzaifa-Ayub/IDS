@@ -1,0 +1,77 @@
+
+========== STUDENT RESULT REPORT ==========
+Student Name: Ali
+Roll Number: 101
+
+Subject-wise Results:
+Python: 90.0 marks (90.00%)
+Math: 75.0 marks (75.00%)
+English: 85.0 marks (85.00%)
+
+Total Marks: 250.0
+Average Marks: 83.33
+
+High Scoring Subjects (80 or above):
+Python: 90.0
+English: 85.0
+
+Performance Category: Excellent
+===========================================
+
+
+========== STUDENT RESULT REPORT ==========
+Student Name: Ahmed
+Roll Number: 102
+
+Subject-wise Results:
+Python: 65.0 marks (65.00%)
+Math: 55.0 marks (55.00%)
+Physics: 70.0 marks (70.00%)
+
+Total Marks: 190.0
+Average Marks: 63.33
+
+High Scoring Subjects (80 or above):
+No high-scoring subjects.
+
+Performance Category: Good
+===========================================
+
+
+========== STUDENT RESULT REPORT ==========
+Student Name: Sara
+Roll Number: 103
+
+Subject-wise Results:
+Python: 45.0 marks (45.00%)
+Math: 50.0 marks (50.00%)
+English: 55.0 marks (55.00%)
+
+Total Marks: 150.0
+Average Marks: 50.00
+
+High Scoring Subjects (80 or above):
+No high-scoring subjects.
+
+Performance Category: Satisfactory
+===========================================
+
+
+========== STUDENT RESULT REPORT ==========
+Student Name: Hassan
+Roll Number: 104
+
+Subject-wise Results:
+Python: 30.0 marks (30.00%)
+Math: 40.0 marks (40.00%)
+English: 35.0 marks (35.00%)
+
+Total Marks: 105.0
+Average Marks: 35.00
+
+High Scoring Subjects (80 or above):
+No high-scoring subjects.
+
+Performance Category: Needs Improvement
+===========================================
+
